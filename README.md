@@ -1,4 +1,4 @@
-![A background picture](bakground.png)
+![A background picture](background.png)
 
 
 ## Hi there 👋
