@@ -16,7 +16,3 @@
 Use JavaScript, C++, Python, Golang and my paintings to communicate with you.
 
 High school student, my [X account](https://x.com/mizaukawa), and my [Pixiv account](https://www.pixiv.net/users/103346030)
-
-
-
-![Contribution Page](https://green-wall.leoku.dev/share/Mizauka)
