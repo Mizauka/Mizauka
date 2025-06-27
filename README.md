@@ -19,4 +19,4 @@ High school student, my [X account](https://x.com/mizaukawa), and my [Pixiv acco
 
 
 
-![contribution](https://green-wall.leoku.dev/share/Mizauka)
+![Contribution Page]((https://green-wall.leoku.dev/share/Mizauka))
