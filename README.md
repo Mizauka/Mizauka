@@ -1,4 +1,4 @@
-![A background picture]("画板 2.png")
+![A background picture](画板.png)
 
 
 ## Hi there 👋
