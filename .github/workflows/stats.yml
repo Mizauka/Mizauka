@@ -15,6 +15,6 @@ jobs:
       - uses: actions/checkout@v4
       - uses: StefVuck/Github-Language-Stats@v1.2.0
         with:
-          github_token: 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
+          github_token: ${{ secrets.STATS_TOKEN }}
           visualization_types: "leaderboard"
           output_path: "stats"
