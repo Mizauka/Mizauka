@@ -18,5 +18,7 @@ jobs:
           github_token: ${{ secrets.STATS_TOKEN }}
           visualization_types: "leaderboard bar pie donut"
           output_path: "stats"
-          exclude_languages: "Makefile, Dockerfile, Shell, Batchfile, CMake, Vim script, Jupyter Notebook, DTrace"
           dark_mode: "true"
+          use_loc: "true"
+          exclude_repos: "The-Valence-Project"
+          include_forks: "true"
