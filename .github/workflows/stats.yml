@@ -19,7 +19,7 @@ jobs:
           visualization_types: "leaderboard bar pie donut"
           output_path: "stats"
           dark_mode: "true"
-          use_loc: "true"
+          use_loc: "false"
           exclude_repos: ""
           exclude_languages: "HTML,DTrace,Shell,PowerShell,CMake,Batchfile,Makefile,Dockerfile,Groovy"
           include_forks: "true"
