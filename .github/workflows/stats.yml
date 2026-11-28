@@ -20,5 +20,5 @@ jobs:
           output_path: "stats"
           dark_mode: "true"
           use_loc: "true"
-          exclude_repos: "The-Valence-Project"
+          exclude_repos: ""
           include_forks: "true"
