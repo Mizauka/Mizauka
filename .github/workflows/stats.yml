@@ -21,4 +21,5 @@ jobs:
           dark_mode: "true"
           use_loc: "true"
           exclude_repos: ""
+          exclude_languages: "HTML,DTrace,Shell,PowerShell,CMake,Batchfile,Makefile,Dockerfile,Groovy"
           include_forks: "true"
