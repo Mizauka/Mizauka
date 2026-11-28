@@ -5,7 +5,7 @@
 
 # 这里是水渍，随机刷新的一般人类，计算机与绘画设计的不擅长者。
 
-使用计算机以及我的绘画与您交流。
+使用代码以及我的绘画与您交流。
 
 高中在读，我的[X账号](https://x.com/mizauka_)，与我的[Pixiv账号](https://www.pixiv.net/users/103346030)
 
@@ -13,7 +13,7 @@
 
 # This is Mizauka, a random refresh of ordinary human, not well with computer and painting design.
 
-Use JavaScript, C++, Python, Golang and my paintings to communicate with you.
+Use codes and my paintings to communicate with you.
 
 High school student, my [X account](https://x.com/qitide), and my [Pixiv account](https://www.pixiv.net/users/103346030)
 
